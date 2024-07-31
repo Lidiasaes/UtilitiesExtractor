@@ -57,7 +57,7 @@ class UtilitiesExtractor():
 print("---------")
 test_sample = ["myhouseishere.right@gmail.com aidfñafiña fñidi hihi@hptmdi.eus","125_myhouseishere.right@gmail.es.com", "hihi@hptmdi.eus",
                "blabnlab blab doi: 10.1016/j.avb.2012.09.003", "DOI:10.1016/j.avb.2012.09.003", "Check out this paper with DOI 10.1000/xyz123.",
-               "my website is: exploringsansebastian.com", "www.google.com",
+               "exploringfrance.com", "www.google.com",
 ]
 
 
